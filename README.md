@@ -1,4 +1,4 @@
 # HTML
 
 Download and Unzip the file.
-Open with WEB_Browser.
+Open the HTMLTAGS file in WEB_Browser.

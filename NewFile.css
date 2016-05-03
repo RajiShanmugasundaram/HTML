@@ -1,0 +1,39 @@
+@CHARSET "ISO-8859-1";
+
+body
+{background-color:rgb(149,149,149);}
+	
+	
+img{float:left;height:70px;margin:0px 0px 0px 40px;}
+img1{background-color:rgb(149,149,149);
+		width:5px;height:5px;}
+div.main
+{
+color:#f5ff01;text-transform: uppercase;font-size:40px;font-weight: bold;text-align:center;
+}
+/*width:100%;
+height:60px;
+padding:20px 20px;
+/*background-img: url("C:\Users\sakthi\Pictures\edu26.gif");width:70px;height:70px; background-position:right-top;*/
+
+
+
+
+h1{clear:left;text-align:center;color:#f5f590;
+}
+/*h1{ counter-increment:section;content: counter(section)".";}*/
+
+table{border-collapse:collapse;border:5px solid #b5dcb3;table-align:centre;background-color:#F5F5DC;width:90%}
+	
+td,th{border:2px solid rgb(129,129,129);text-align:left;}
+
+th{background-color:#b5dcb3;}
+
+a:link{color:lightblue;}
+a:visited{color:#8000402562565;}
+a:hover{background-color:rgb(169,169,169);color:pink;}
+a:active{color:blue;}
+
+ul.list{list-style-type:none;}
+li.index{border-bottom:1px dashed rgb(129,129,129);}
+li.index a{display: block; color:#0000;padding: 16px 0 16px 16px;text-decoration: none;}
